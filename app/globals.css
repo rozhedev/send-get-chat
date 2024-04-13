@@ -20,7 +20,7 @@
 }
 
 .logo {
-    @apply w-52 h-auto;
+    @apply w-44 h-auto;
 }
 
 .form {
@@ -36,7 +36,7 @@
 }
 
 .button {
-    @apply w-full px-5 py-3 mt-5 mb-7 rounded-xl cursor-pointer bg-blue-1 hover:bg-red-1 text-white text-body-bold transition-all;
+    @apply w-full px-5 py-3 mt-5 mb-7 rounded-xl cursor-pointer bg-blue-1 hover:bg-red-1 text-white text-body-bold transition-all disabled:bg-gray-600;
 }
 
 .link {

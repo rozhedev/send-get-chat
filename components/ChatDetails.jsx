@@ -169,7 +169,7 @@ const ChatDetails = ({ chatId }) => {
                                     fontSize: "35px",
                                     color: "#737373",
                                     cursor: "pointer",
-                                    "&:hover": { color: "#ef4444" },
+                                    "&:hover": { color: "#702525" },
                                 }}
                             />
                         </CldUploadButton>
