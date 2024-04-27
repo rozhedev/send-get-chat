@@ -93,11 +93,11 @@ const Profile = () => {
                         onUpload={uploadPhoto}
                         uploadPreset="eajiahse"
                     >
-                        <p className="text-body-bold">Upload new photo</p>
+                        <p className="btn btn-upload">Upload new photo</p>
                     </CldUploadButton>
                 </div>
 
-                <button
+                <button 
                     className="btn"
                     type="submit"
                 >
